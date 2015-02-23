@@ -1,1 +1,2 @@
 Fantastic
+added 2 steps to methods
